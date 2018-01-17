@@ -20,7 +20,6 @@ RUN useradd -ms /bin/bash 7d2d && \
             binutils \
             bc \
             util-linux \
-            tmux \
             lib32gcc1 \
             lib32z1 \
             libstdc++6 \
